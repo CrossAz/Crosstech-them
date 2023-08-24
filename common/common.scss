@@ -69,7 +69,10 @@ nav.post-controls a, nav.post-controls button, nav.post-controls button.create,
     background-color: transparent;
     border-radius: 9001px;
 }
-
+.btn-primary {
+  background-color: var(--tertiary);
+    border-radius: 9001px;
+}
 .widget-button.btn.btn-primary.btn-small.sign-up-button.btn-text:hover,
 .widget-button.btn.btn-primary.btn-small.login-button.btn-icon-text:hover,
 .widget-button.btn.btn-primary.btn-small.login-button.btn-icon-text:hover .d-icon,
@@ -1952,8 +1955,4 @@ color: var(--quaternary);
 
 .container.list-container {
   position: relative;
-}
-.btn-primary {
-  background-color: var(--tertiary);
-    border-radius: 9001px;
 }
