@@ -8,4 +8,6 @@
 
 3. Click the “Install” buttons, and then tick the box that says “Theme is enabled by default”
 ![image](https://github.com/CrossAz/Crosstech-theme/assets/32080762/84dd20c2-45c9-4fb6-88a6-52df25d1a0f7)
+4. Sometimes you need to see what a theme looks like on your site before applying it. Discourse offers an easy way to preview themes without setting them as active.
+   ![image](https://github.com/CrossAz/Crosstech-theme/assets/32080762/4d513610-f4db-46cf-a90d-dd5fed9b719f)
 
